@@ -10,3 +10,4 @@ model_output/      # too large for GitHub (1–2 GB)
 .DS_Store
 Thumbs.db
 *.log
+backend/model_output/
